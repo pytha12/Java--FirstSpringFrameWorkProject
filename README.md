@@ -6,4 +6,6 @@ Web Tools:
 2. Maven
 3. Spring
 
+-- Project name: HelloWorld - Archetype : WebApp
+-- Project name : MySpringMVC - Archetype : MVC
 
